@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://example.com",
+    "email": "contact@example.com",
+    "phone": "+49 1523344556",
+    "socialLinks": [
+      "https://www.linkedin.com/company/example",
+      "https://twitter.com/example"
+    ],
+    "platform": "LinkedIn",
+    "sourcePage": "https://example.com/contact",
+    "timestamp": "2025-06-04T10:32:00Z"
+  }
+]
