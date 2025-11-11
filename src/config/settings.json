@@ -1,0 +1,13 @@
+{
+  "max_depth": 2,
+  "max_pages_per_site": 10,
+  "request_timeout": 10,
+  "concurrent_requests": 5,
+  "use_playwright_fallback": true,
+  "user_agent": "DeepContactScraper/1.0",
+  "allowed_content_types": [
+    "text/html"
+  ],
+  "input_file": "data/input_urls.txt",
+  "output_file": "data/results_sample.json"
+}
