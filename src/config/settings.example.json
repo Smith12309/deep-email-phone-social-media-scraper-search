@@ -1,0 +1,11 @@
+{
+  "user_agent": "DeepContactScraper/1.0 (+https://bitbash.dev)",
+  "timeout": 15,
+  "max_depth": 2,
+  "max_pages_per_site": 15,
+  "use_dynamic_crawler": false,
+  "dynamic_render_timeout": 15,
+  "concurrent_requests": 4,
+  "proxy": null,
+  "regions_for_phones": ["DE", "AT", "CH", "SE", "NO", "DK", "FI", "IS"]
+}
