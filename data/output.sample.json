@@ -1,0 +1,21 @@
+[
+  {
+    "url": "https://www.companyexample.com/contact",
+    "emails": [
+      "info@companyexample.com",
+      "support@companyexample.com"
+    ],
+    "phoneNumbers": [
+      "+49 176 1234567",
+      "+43 650 9876543"
+    ],
+    "socialProfiles": {
+      "linkedin": "https://linkedin.com/company/example",
+      "twitter": "https://twitter.com/example",
+      "facebook": "https://facebook.com/example"
+    },
+    "pageTitle": "Contact Us - Company Example",
+    "sourceType": "contact-page",
+    "timestamp": "2025-06-04T10:42:00Z"
+  }
+]
