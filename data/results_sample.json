@@ -1,0 +1,17 @@
+[
+  {
+    "url": "https://example.com/contact",
+    "email": "info@example.com",
+    "phone": "+49 176 12345678",
+    "linkedin": "https://linkedin.com/company/example",
+    "twitter": "https://twitter.com/example",
+    "source_page": "/contact"
+  },
+  {
+    "url": "https://anotherbusiness.de",
+    "email": "kontakt@anotherbusiness.de",
+    "phone": "0151 98765432",
+    "instagram": "https://instagram.com/anotherbusiness",
+    "source_page": "/impressum"
+  }
+]
